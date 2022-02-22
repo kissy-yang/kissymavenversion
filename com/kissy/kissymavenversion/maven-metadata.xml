@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.kissy</groupId>
+  <artifactId>kissymavenversion</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20220222093719</lastUpdated>
+  </versioning>
+</metadata>
